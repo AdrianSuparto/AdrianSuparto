@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Adrian Suparto<br><br>Fresh graduate Informatics from Universitas Multi Data Palembang. I’m passionate about system development and web technologies.<br><br>I previously worked as a Web Developer intern at Akuatik Sumatera Selatan, contributing to a web-based athlete and event management system that successfully earned HKI. I enjoy building clean, functional solutions and have experience with Java, Dart, Kotlin, and PHP.<br><br>Certified as a Web Developer (CWDev) and always eager to learn, adapt, and explore new technologies.
 
-🌐 Portfolio:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adriansuparto.github.io/portfolio)
 
 ## 🌐 Socials:
